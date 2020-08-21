@@ -1,0 +1,45 @@
+.preview_inner {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    width: 680px;
+    color: #393939 !important;
+    text-align: left;
+    line-height: 1.4;
+    word-wrap: break-word;
+}
+
+.preview_inner b {
+    color: #000 !important;
+}
+
+.preview_inner p {
+    margin: 0 0 0.5em 0;
+}
+
+.section_header {
+    line-height: 2em;
+    margin: 0 0 1em 0;
+}
+
+.section_header {
+    color: #446a91 !important;
+}
+
+.section_header-icon {
+    vertical-align: middle;
+}
+
+.section_header-text {
+    font-family: 'Merriweather', serif;
+    font-size: 1.4em;
+    font-weight: bold;
+}
+
+.section_content {
+    padding-left: 2em;
+}
+
+.phone-icons {
+    width: 16px;
+    vertical-align: middle;
+}
